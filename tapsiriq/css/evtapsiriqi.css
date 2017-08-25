@@ -1,0 +1,22 @@
+/* 3-unude burda ELEMISHEM YANBAYANDIR 3 DIVDEN ISTIFADE OLUNUB*/
+
+#triangle_down {
+    width: 0;
+    height: 0;
+    border-top: 140px solid #000000;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+}
+
+#square {
+    font-size: 0px; line-height: 0%; width: 0px;
+	border-top: 200px solid blue;
+	border-bottom: 200px solid green;
+	border-left: 200px solid red;
+	border-right: 200px solid red; 
+}
+.div {
+  height: 200px;
+  width: 200px;
+  background: linear-gradient(to bottom, blue 0%, blue 33%, red 33%, red 66%, green 66%, green 100%);
+}
